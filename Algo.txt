@@ -2,7 +2,7 @@ Step 1: Choose the pizza place
 Step 2: Choose your pizza
 Step 3: Order and enjoy!
 Step 4: Something new
-Step 5: Working on a feature on the chris branch
+Step 5: Working on a feature on the test branch
 Step 6. Eat the pizzaStep
 Step 7. Put leftovers in the fridge
 Step 8. Throw away pizza box
